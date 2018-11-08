@@ -1,7 +1,7 @@
 This is a text file.
 
-I do not want this.
-
 This is another edit.
 
 I am testing git with it.
+
+Kenneth was here
