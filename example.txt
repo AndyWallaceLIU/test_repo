@@ -3,3 +3,5 @@ This is a text file.
 This is another edit.
 
 I am testing git with it.
+
+This is a mistake.
