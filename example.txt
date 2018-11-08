@@ -3,9 +3,3 @@ This is a text file.
 This is another edit.
 
 I am testing git with it.
-
-<<<<<<< HEAD
-This is a mistake.
-=======
-Kenneth was here
->>>>>>> 5f13235031bb571a827704ca9fee9794db90c115
